@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0fe9b9b1-a831-4d22-877a-2dceef3dd343" name="Default Changelist" comment="" />
+    <list default="true" id="0fe9b9b1-a831-4d22-877a-2dceef3dd343" name="Default Changelist" comment="123" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +21,7 @@
     <option name="defaultAccountId" value="4bcf05ba-6cc4-40fd-b2fb-6de014572b03" />
   </component>
   <component name="ProjectId" id="1XI7wtwKmAbwbleVMRa98ZVuejJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
